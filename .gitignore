@@ -1,0 +1,9 @@
+/.DS_Store
+/.cproject
+/.project
+/.settings
+/Debug
+
+!*.h
+!*.c
+!README
